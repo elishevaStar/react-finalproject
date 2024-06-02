@@ -1,0 +1,4 @@
+{
+    "extensions.closeExtensionDetailsOnViewChange": false,
+    "extensions.experimental.deferredStartupFinishedActivation": false
+}

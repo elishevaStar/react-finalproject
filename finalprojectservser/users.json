@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "firstName": "esti",
+        "lastName": "levi",
+        "password": "as2345",
+        "email": "elishstar1@gmail.com"
+    },
+    {
+        "firstName": "elisheva",
+        "lastName": "katzinelbogen",
+        "password": "tkhafufc",
+        "email": "elishstar1@gmail.com",
+        "id": 2
+    } ,
+    {
+        "id": 3,
+        "firstName": "sari",
+        "lastName": "choen",
+        "password": "1234",
+        "email": "sari11@gmail.com"
+    },
+    {
+        "id": 4,
+        "firstName": "rachel",
+        "lastName": "levi",
+        "password": "8968",
+        "email": "rachellevi@gmail.com"
+    },
+    {
+        "id": 5,
+        "firstName": "david",
+        "lastName": "catz",
+        "password": "32334",
+        "email": "david3233@gmail.com"
+    },
+    {
+        "id": 6,
+        "firstName": "shlomo",
+        "lastName": "alyakim",
+        "password": "7418",
+        "email": "alyakim@gmail.com"
+    },
+    {
+        "id": 7,
+        "firstName": "lali",
+        "lastName": "feldman",
+        "password": "3323",
+        "email": "lalifeldman3323@gmail.com"
+    },
+    {
+        "id": 8,
+        "firstName": "yudit",
+        "lastName": "catz",
+        "password": "53085",
+        "email": "sz570619@gmail.com"
+    }
+]
